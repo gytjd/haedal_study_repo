@@ -1,1 +1,1 @@
-# Greedy Algorithm
+# Chapter3. Greedy Algorithm
